@@ -1,5 +1,8 @@
 # Boas-vindas ao repositório do projeto Pick-the-Movie!
+
 ![Main Page Img](https://i.ibb.co/cyDGZhK/main-2.png)
+
+---
 
 ## Login Page
 
